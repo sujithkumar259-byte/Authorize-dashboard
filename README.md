@@ -3,7 +3,7 @@
 
 A working prior-authorization engine for DME (durable medical equipment), starting with CPAP/PAP therapy for obstructive sleep apnea. It evaluates a patient case against the payer's coverage policy, flags exactly what's missing, predicts first-pass approval from historical outcomes, and closes the loop by linking payer decisions back to the originating case.
 
-**Live demo →** [your-netlify-url]
+**Live demo →** https://enchanting-valkyrie-e2f916.netlify.app/
 
 ---
 
