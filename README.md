@@ -1,4 +1,4 @@
-# Coral Authorize
+# Authorize
 
 Vite + React + Tailwind v4 build of the PA engine prototype.
 
